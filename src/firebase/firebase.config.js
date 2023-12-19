@@ -1,12 +1,12 @@
 import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDwNwJLAL-4CPoKcx7v5Q6o2f3SmjGXYrs",
-  authDomain: "anchorblock-task-29281.firebaseapp.com",
-  projectId: "anchorblock-task-29281",
-  storageBucket: "anchorblock-task-29281.appspot.com",
-  messagingSenderId: "989775964868",
-  appId: "1:989775964868:web:27ef0276c418026f153791",
+  apiKey: "AIzaSyBzpqkELCQPLxlfnSWqNiRAqkLt7PmvuBE",
+  authDomain: "anchorblock-assignment.firebaseapp.com",
+  projectId: "anchorblock-assignment",
+  storageBucket: "anchorblock-assignment.appspot.com",
+  messagingSenderId: "714852065740",
+  appId: "1:714852065740:web:c6098cd84616d673573d69"
 };
 
 // Initialize Firebase
